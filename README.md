@@ -39,3 +39,4 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 
 [MIT](https://choosealicense.com/licenses/mit/)
 # rude-club
+# rude-club
